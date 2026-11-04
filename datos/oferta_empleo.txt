@@ -1,0 +1,41 @@
+Job Description
+The Consumer team owns the Kraken app experience used by millions of traders and crypto newcomers worldwide, the product that turns someone's first crypto curiosity into a long-term relationship with Kraken. We build the interfaces people actually use to buy, sell, manage their portfolio, and interact with their assets. Our stack is React on web and React Native on mobile, and we ship fast, measure everything, and iterate based on real user behaviour. We work agile, globally distributed, and we care as much about why we build something as how we build it.
+
+We're looking for a world-class Senior Frontend Engineer to join our product-minded engineering team: we care about customer problems, measurable outcomes, frontend craft, and fast iteration. We work across web and mobile surfaces, partner closely with Product, Design, Data, and Platform teams, and use experimentation, observability, and user behaviour to guide what we build next.
+
+The opportunity
+
+Design, develop, and maintain high-quality consumer-facing features across web (React) and mobile (React Native), owning the full experience from concept to production monitoring.
+Own the full lifecycle of product work, from discovery and technical design through release, monitoring, experimentation, and iteration.
+Drive A/B testing and experimentation strategies forming hypotheses, designing experiments, analysing results, and iterating based on data.
+Partner with Product, Design, Data, and Mobile engineers to create coherent experiences across Kraken’s consumer surfaces.
+Make opinionated technical decisions on framework and architecture choices (we want engineers who have strong views on things like TanStack Router vs Next.js App Router and can back them up with real experience).
+Set the standard for high-quality code — functional correctness, accessibility, performance, and testability are non-negotiables.
+Mentor engineers across seniority levels and contribute to a culture of craft and continuous improvement.
+Lead and collaborate on complex cross-platform initiatives, driving alignment across web and mobile surfaces.
+Stay ahead of the curve on React ecosystem tooling, React Server Components, concurrent features, streaming, and bring those insights back to the team.
+Work AI-natively, we use AI tools across the full SDLC and expect engineers to have a structured, opinionated workflow, not just autocomplete.
+Requirements
+6+ years of professional software development experience with a strong focus on consumer-facing web and/or mobile products.
+Deep expertise in TypeScript and the React ecosystem, you have opinions about state management, data fetching patterns, and component architecture, and you can articulate the trade-offs.
+Production experience with React Native and cross-platform mobile development, including App Store and Google Play release pipelines.
+Experience with Next.js — specifically familiarity with App Router, React Server Components, and the client/server boundary decisions that come with them.
+Hands-on experience with A/B testing, feature flags, and experimentation frameworks (LaunchDarkly, Optimizely, or similar).
+Experience with WebSockets or Server-Sent Events for real-time UI updates.
+Strong testing culture Jest, React Testing Library, Playwright or Cypress, and the judgement to know when to use each.
+Familiarity with modern build tooling (Vite, Webpack, CI/CD pipelines) and performance profiling.
+Experience in fintech, crypto, payments, or other high-trust consumer products where correctness and user confidence matter.
+Strong written and verbal English, you can write a clear RFC, give direct feedback in a PR review, and explain a technical trade-off to a non-technical stakeholder.
+An active AI-assisted development workflow, Cursor, Claude Code, Copilot, or equivalent with the engineering rigour to review and own what gets produced.
+Skills + Tech Stack
+React
+React Native
+TypeScript
+Next.js
+WebSockets
+Jest
+Playwright
+Cypress
+Vite
+Webpack
+CI/CD

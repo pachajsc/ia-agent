@@ -1,0 +1,269 @@
+{
+  "datos_personales": {
+    "nombre": "JOSE S. CARDOSO",
+    "titulo": "DESARROLLADOR FRONTEND SENIOR — ESPECIALISTA EN REACT",
+    "ubicacion": "Buenos Aires, Argentina",
+    "telefono": "+54 9 11 6608 2462",
+    "correo": "josesegundo.uidev@gmail.com",
+    "enlaces": [
+      "josesegundo.digital",
+      "github.com/pachajsc",
+      "linkedin.com/in/cardosojose"
+    ]
+  },
+  "resumen_original": "Ingeniero Frontend Senior con más de 10 años de experiencia, especializado en React, TypeScript y Next.js para la construcción de interfaces escalables, performantes y centradas en el usuario. Amplia trayectoria diseñando Design Systems y arquitecturas de componentes reutilizables en React, con experiencia complementaria en Angular y Salesforce LWC. Acostumbrado a trabajar en equipos ágiles junto a Product, UX y Backend, con foco constante en performance, accesibilidad y mantenibilidad del código. Adopción activa de herramientas de IA (Copilot, ChatGPT, Claude, Gemini) para acelerar el desarrollo.",
+  "experiencia": [
+    {
+      "cargo": "Desarrollador Frontend Senior (React)",
+      "empresa": "Prodapt — Digital & Network Transformation",
+      "ubicacion": null,
+      "fecha_inicio": "2021",
+      "fecha_fin": "Actualidad",
+      "bullets_originales": [
+        "Desarrollo de interfaces React para plataformas digitales del sector telecom, como stack principal del equipo.",
+        "Diseño de una librería de componentes React reutilizables, alineados a un Design System compartido con Angular y Salesforce LWC.",
+        "Colaboración directa con Product, UX y Backend para asegurar consistencia visual y escalabilidad de la interfaz.",
+        "Mejoras de performance, accesibilidad y mantenibilidad en aplicaciones React de alto tráfico.",
+        "Incorporación de herramientas de IA para acelerar workflows de desarrollo, refactor y documentación."
+      ],
+      "tecnologias": ["React", "TypeScript", "Angular", "Salesforce LWC", "Storybook", "Git", "Jira", "Figma"],
+      "logros_cuantificables": []
+    },
+    {
+      "cargo": "Desarrollador Frontend Senior (React)",
+      "empresa": "Acciona IT / Federación Patronal",
+      "ubicacion": null,
+      "fecha_inicio": "2020",
+      "fecha_fin": "2024",
+      "bullets_originales": [
+        "Desarrollo de interfaces web corporativas en React para aplicaciones y sistemas internos de la compañía.",
+        "Integración de aplicaciones React con REST APIs y servicios backend.",
+        "Implementación de soluciones responsive priorizando usabilidad y claridad visual."
+      ],
+      "tecnologias": ["React", "TypeScript", "Angular", "JavaScript", "HTML5", "CSS3", "Sass"],
+      "logros_cuantificables": []
+    },
+    {
+      "cargo": "Desarrollador Frontend (React y Vue)",
+      "empresa": "IEBS — Digital School",
+      "ubicacion": null,
+      "fecha_inicio": "2019",
+      "fecha_fin": "2021",
+      "bullets_originales": [
+        "Desarrollo de plataformas web educativas utilizando React como framework principal.",
+        "Mejoras de experiencia de usuario y accesibilidad en aplicaciones institucionales.",
+        "Reducción de bugs de interfaz mediante mejor arquitectura de componentes."
+      ],
+      "tecnologias": ["React", "Vue", "JavaScript", "HTML5", "CSS3", "Sass", "Git", "Figma"],
+      "logros_cuantificables": []
+    },
+    {
+      "cargo": "Desarrollador Frontend Senior",
+      "empresa": "Accenture — Digital Interactive",
+      "ubicacion": null,
+      "fecha_inicio": "2015",
+      "fecha_fin": "2019",
+      "bullets_originales": [
+        "Desarrollo de aplicaciones bancarias y enterprise de gran escala con React, dentro de un equipo Scrum.",
+        "Construcción de componentes de Design System en React que redujeron el tiempo de desarrollo en ~35%.",
+        "Entrega de soluciones para clientes como ICBC, Banco Galicia y Avianca, colaborando con UX, QA y Backend."
+      ],
+      "tecnologias": ["React", "Angular", "TypeScript", "JavaScript", "HTML5", "CSS3", "Storybook", "Git", "Jira", "Figma"],
+      "logros_cuantificables": [
+        {
+          "logro": "Construcción de componentes de Design System en React que redujeron el tiempo de desarrollo en ~35%.",
+          "cifra": "~35%",
+          "contexto": "Reducción del tiempo de desarrollo"
+        }
+      ]
+    },
+    {
+      "cargo": "Desarrollador Frontend Senior (Freelance)",
+      "empresa": "BrandBox",
+      "ubicacion": null,
+      "fecha_inicio": "2013",
+      "fecha_fin": "2024",
+      "bullets_originales": [
+        "Desarrollo de plataformas y productos web en React para múltiples industrias como freelancer independiente.",
+        "Mejora de performance y SEO en proyectos de clientes mediante optimización de componentes React.",
+        "Implementación de soluciones frontend escalables integradas con WordPress y WooCommerce."
+      ],
+      "tecnologias": ["React", "TypeScript", "Angular", "JavaScript", "HTML5", "CSS3", "Git", "WordPress", "WooCommerce"],
+      "logros_cuantificables": []
+    },
+    {
+      "cargo": "Desarrollador Frontend Semi Senior",
+      "empresa": "+54 Agencia Interactiva",
+      "ubicacion": null,
+      "fecha_inicio": "2012",
+      "fecha_fin": "2015",
+      "bullets_originales": [
+        "Desarrollo de sitios web y landing pages en React y Angular para múltiples clientes de la agencia.",
+        "Implementación de interfaces responsive a partir de diseños en Figma.",
+        "Participación en decisiones de UI/UX y mejora de experiencia mobile."
+      ],
+      "tecnologias": ["React", "Angular", "TypeScript", "HTML5", "CSS3", "jQuery", "WordPress", "Figma"],
+      "logros_cuantificables": []
+    }
+  ],
+  "habilidades_duras": [
+    "Desarrollo Frontend con React",
+    "React Hooks",
+    "Component Architecture / arquitecturas de componentes reutilizables",
+    "Design Systems",
+    "Diseño de librerías de componentes React reutilizables",
+    "Construcción de interfaces escalables, performantes y centradas en el usuario",
+    "Optimización de performance",
+    "Accesibilidad",
+    "Mantenibilidad del código",
+    "Diseño responsive / Responsive Web Design",
+    "Integración con REST APIs y servicios backend",
+    "Optimización SEO",
+    "Desarrollo de sitios web y landing pages",
+    "Implementación de interfaces a partir de diseños en Figma",
+    "Mejora de experiencia mobile",
+    "Integración frontend con WordPress y WooCommerce",
+    "Scrum / metodologías ágiles",
+    "Uso de IA aplicada al desarrollo: generación y refactor de código, prototipado UI, documentación y tests"
+  ],
+  "habilidades_blandas": [
+    {
+      "habilidad": "Colaboración interdisciplinaria",
+      "evidencia": "Colaboración directa con Product, UX y Backend para asegurar consistencia visual y escalabilidad de la interfaz. / Entrega de soluciones para clientes como ICBC, Banco Galicia y Avianca, colaborando con UX, QA y Backend."
+    },
+    {
+      "habilidad": "Trabajo en equipos ágiles",
+      "evidencia": "Acostumbrado a trabajar en equipos ágiles junto a Product, UX y Backend / Desarrollo de aplicaciones bancarias y enterprise de gran escala con React, dentro de un equipo Scrum."
+    },
+    {
+      "habilidad": "Orientación al usuario",
+      "evidencia": "construcción de interfaces escalables, performantes y centradas en el usuario / Implementación de soluciones responsive priorizando usabilidad y claridad visual."
+    },
+    {
+      "habilidad": "Foco en la calidad del código",
+      "evidencia": "con foco constante en performance, accesibilidad y mantenibilidad del código."
+    },
+    {
+      "habilidad": "Adopción de nuevas herramientas / aprendizaje continuo",
+      "evidencia": "Adopción activa de herramientas de IA (Copilot, ChatGPT, Claude, Gemini) para acelerar el desarrollo. / Formación técnica complementaria: React — Educación IT · Angular — Udemy · Node.js — CoderHouse · Responsive Web Design — DOT ZERO"
+    },
+    {
+      "habilidad": "Trabajo autónomo",
+      "evidencia": "Desarrollo de plataformas y productos web en React para múltiples industrias como freelancer independiente."
+    },
+    {
+      "habilidad": "Participación en decisiones de diseño",
+      "evidencia": "Participación en decisiones de UI/UX y mejora de experiencia mobile."
+    }
+  ],
+  "tecnologias": [
+    { "nombre": "React", "categoria": "Ecosistema React", "contextos": ["Perfil profesional", "Stack técnico", "Prodapt", "Acciona IT / Federación Patronal", "IEBS — Digital School", "Accenture — Digital Interactive", "BrandBox", "+54 Agencia Interactiva", "Formación complementaria: React — Educación IT"] },
+    { "nombre": "React Hooks", "categoria": "Ecosistema React", "contextos": ["Stack técnico"] },
+    { "nombre": "React Native", "categoria": "Ecosistema React", "contextos": ["Stack técnico"] },
+    { "nombre": "Next.js", "categoria": "Ecosistema React", "contextos": ["Perfil profesional", "Stack técnico"] },
+    { "nombre": "Component Architecture", "categoria": "Ecosistema React", "contextos": ["Stack técnico", "Perfil profesional", "IEBS — Digital School"] },
+    { "nombre": "Design Systems", "categoria": "Ecosistema React", "contextos": ["Stack técnico", "Perfil profesional", "Prodapt", "Accenture — Digital Interactive"] },
+    { "nombre": "TypeScript", "categoria": "Lenguajes", "contextos": ["Perfil profesional", "Stack técnico", "Prodapt", "Acciona IT / Federación Patronal", "Accenture — Digital Interactive", "BrandBox", "+54 Agencia Interactiva"] },
+    { "nombre": "JavaScript (ES6+)", "categoria": "Lenguajes", "contextos": ["Stack técnico", "Acciona IT / Federación Patronal", "IEBS — Digital School", "Accenture — Digital Interactive", "BrandBox"] },
+    { "nombre": "HTML5", "categoria": "Lenguajes", "contextos": ["Stack técnico", "Acciona IT / Federación Patronal", "IEBS — Digital School", "Accenture — Digital Interactive", "BrandBox", "+54 Agencia Interactiva"] },
+    { "nombre": "CSS3", "categoria": "Lenguajes", "contextos": ["Stack técnico", "Acciona IT / Federación Patronal", "IEBS — Digital School", "Accenture — Digital Interactive", "BrandBox", "+54 Agencia Interactiva"] },
+    { "nombre": "Tailwind CSS", "categoria": "Styling / UI", "contextos": ["Stack técnico"] },
+    { "nombre": "Material UI", "categoria": "Styling / UI", "contextos": ["Stack técnico"] },
+    { "nombre": "Sass", "categoria": "Styling / UI", "contextos": ["Stack técnico", "Acciona IT / Federación Patronal", "IEBS — Digital School"] },
+    { "nombre": "Storybook", "categoria": "Styling / UI", "contextos": ["Stack técnico", "Prodapt", "Accenture — Digital Interactive"] },
+    { "nombre": "Angular", "categoria": "También trabajado", "contextos": ["Perfil profesional", "Stack técnico", "Prodapt", "Acciona IT / Federación Patronal", "Accenture — Digital Interactive", "BrandBox", "+54 Agencia Interactiva", "Formación complementaria: Angular — Udemy"] },
+    { "nombre": "Salesforce LWC", "categoria": "También trabajado", "contextos": ["Perfil profesional", "Stack técnico", "Prodapt"] },
+    { "nombre": "WordPress", "categoria": "También trabajado", "contextos": ["Stack técnico", "BrandBox", "+54 Agencia Interactiva"] },
+    { "nombre": "WooCommerce", "categoria": "También trabajado", "contextos": ["Stack técnico", "BrandBox"] },
+    { "nombre": "Vue", "categoria": "Frameworks frontend", "contextos": ["IEBS — Digital School"] },
+    { "nombre": "jQuery", "categoria": "Librerías JavaScript", "contextos": ["+54 Agencia Interactiva"] },
+    { "nombre": "REST APIs", "categoria": "Integración / Backend", "contextos": ["Acciona IT / Federación Patronal"] },
+    { "nombre": "Node.js", "categoria": "Formación complementaria", "contextos": ["Formación complementaria: Node.js — CoderHouse"] },
+    { "nombre": "Git", "categoria": "Herramientas", "contextos": ["Stack técnico", "Prodapt", "IEBS — Digital School", "Accenture — Digital Interactive", "BrandBox"] },
+    { "nombre": "GitHub", "categoria": "Herramientas", "contextos": ["Stack técnico", "Enlaces (github.com/pachajsc)"] },
+    { "nombre": "Jira", "categoria": "Herramientas", "contextos": ["Stack técnico", "Prodapt", "Accenture — Digital Interactive"] },
+    { "nombre": "Figma", "categoria": "Herramientas", "contextos": ["Stack técnico", "Prodapt", "IEBS — Digital School", "Accenture — Digital Interactive", "+54 Agencia Interactiva"] },
+    { "nombre": "Adobe XD", "categoria": "Herramientas", "contextos": ["Stack técnico"] },
+    { "nombre": "GitHub Copilot", "categoria": "IA aplicada al desarrollo", "contextos": ["Stack técnico", "Perfil profesional (como \"Copilot\")"] },
+    { "nombre": "ChatGPT", "categoria": "IA aplicada al desarrollo", "contextos": ["Stack técnico", "Perfil profesional"] },
+    { "nombre": "Claude", "categoria": "IA aplicada al desarrollo", "contextos": ["Stack técnico", "Perfil profesional"] },
+    { "nombre": "Gemini", "categoria": "IA aplicada al desarrollo", "contextos": ["Stack técnico", "Perfil profesional"] }
+  ],
+  "logros_cuantificables": [
+    {
+      "logro": "Construcción de componentes de Design System en React que redujeron el tiempo de desarrollo en ~35%.",
+      "cifra": "~35%",
+      "contexto": "Accenture — Digital Interactive (2015 — 2019)"
+    },
+    {
+      "logro": "Ingeniero Frontend Senior con más de 10 años de experiencia",
+      "cifra": "más de 10 años",
+      "contexto": "Perfil profesional"
+    }
+  ],
+  "educacion": [
+    {
+      "titulo": "Ingeniería en Software",
+      "institucion": "UTN",
+      "tipo": "Formación académica",
+      "fecha_inicio": null,
+      "fecha_fin": null
+    },
+    {
+      "titulo": "Diseño Multimedia",
+      "institucion": "Escuela Da Vinci",
+      "tipo": "Formación académica",
+      "fecha_inicio": null,
+      "fecha_fin": null
+    },
+    {
+      "titulo": "React",
+      "institucion": "Educación IT",
+      "tipo": "Formación técnica complementaria",
+      "fecha_inicio": null,
+      "fecha_fin": null
+    },
+    {
+      "titulo": "Angular",
+      "institucion": "Udemy",
+      "tipo": "Formación técnica complementaria",
+      "fecha_inicio": null,
+      "fecha_fin": null
+    },
+    {
+      "titulo": "Node.js",
+      "institucion": "CoderHouse",
+      "tipo": "Formación técnica complementaria",
+      "fecha_inicio": null,
+      "fecha_fin": null
+    },
+    {
+      "titulo": "Responsive Web Design",
+      "institucion": "DOT ZERO",
+      "tipo": "Formación técnica complementaria",
+      "fecha_inicio": null,
+      "fecha_fin": null
+    }
+  ],
+  "certificaciones": [],
+  "proyectos": [],
+  "idiomas": [
+    { "idioma": "Español", "nivel": "nativo" },
+    { "idioma": "Inglés", "nivel": "B2" }
+  ],
+  "otros": [
+    "Acciona IT / Federación Patronal (2020 — 2024): el CV indica la modalidad \"Tiempo parcial\".",
+    "Sectores y clientes mencionados: sector telecom (Prodapt); aplicaciones y sistemas internos corporativos (Acciona IT / Federación Patronal); plataformas web educativas e institucionales (IEBS — Digital School); aplicaciones bancarias y enterprise para clientes como ICBC, Banco Galicia y Avianca (Accenture); múltiples industrias (BrandBox); múltiples clientes de agencia (+54 Agencia Interactiva).",
+    "Encabezado de sección del stack de IA, texto original: \"IA aplicada al desarrollo: GitHub Copilot, ChatGPT, Claude, Gemini — generación y refactor de código, prototipado UI, documentación y tests\".",
+    "Según las fechas del CV, varios puestos se solapan en el tiempo: BrandBox (2013 — 2024) con +54 Agencia Interactiva, Accenture, IEBS, Acciona IT y Prodapt; Acciona IT (2020 — 2024, tiempo parcial) con IEBS y Prodapt."
+  ],
+  "datos_faltantes": [
+    "Ubicación de cada puesto de experiencia profesional.",
+    "Meses de inicio y fin de los puestos (el CV solo indica años).",
+    "Fechas de la formación académica (Ingeniería en Software — UTN; Diseño Multimedia — Escuela Da Vinci) y si están finalizadas o en curso.",
+    "Fechas de la formación técnica complementaria (Educación IT, Udemy, CoderHouse, DOT ZERO).",
+    "Certificaciones: el CV no lista ninguna explícitamente como certificación.",
+    "Proyectos: el CV no incluye una sección de proyectos.",
+    "Logros cuantificables adicionales: solo un bullet de experiencia contiene una cifra (~35% en Accenture); el resto de mejoras (performance, accesibilidad, reducción de bugs, SEO) no están cuantificadas."
+  ]
+}
